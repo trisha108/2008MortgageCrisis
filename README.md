@@ -31,6 +31,6 @@ This project analyzes how the 2008 financial crisis reshaped U.S. mortgage lendi
 - Tableau dashboards for interactive exploration  
 
 ## Explore the Visualizations  
-Tableau Dashboard: *(link coming soon)*  
+Tableau Dashboard: https://public.tableau.com/app/profile/trisha.shishodiya/viz/2008USFinancialCrisisLendercompositionalshiftsGeographiceffectsRecovery/KeyTakeaways 
 
 ---
